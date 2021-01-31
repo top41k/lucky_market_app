@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lucky_narket_app/static/css/main.fbbf7790.chunk.css",
+    "main.js": "/lucky_narket_app/static/js/main.90201163.chunk.js",
+    "main.js.map": "/lucky_narket_app/static/js/main.90201163.chunk.js.map",
+    "runtime-main.js": "/lucky_narket_app/static/js/runtime-main.2a7842e2.js",
+    "runtime-main.js.map": "/lucky_narket_app/static/js/runtime-main.2a7842e2.js.map",
+    "static/css/2.5fdc0612.chunk.css": "/lucky_narket_app/static/css/2.5fdc0612.chunk.css",
+    "static/js/2.9a71500e.chunk.js": "/lucky_narket_app/static/js/2.9a71500e.chunk.js",
+    "static/js/2.9a71500e.chunk.js.map": "/lucky_narket_app/static/js/2.9a71500e.chunk.js.map",
+    "index.html": "/lucky_narket_app/index.html",
+    "static/css/2.5fdc0612.chunk.css.map": "/lucky_narket_app/static/css/2.5fdc0612.chunk.css.map",
+    "static/css/main.fbbf7790.chunk.css.map": "/lucky_narket_app/static/css/main.fbbf7790.chunk.css.map",
+    "static/js/2.9a71500e.chunk.js.LICENSE.txt": "/lucky_narket_app/static/js/2.9a71500e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a7842e2.js",
+    "static/css/2.5fdc0612.chunk.css",
+    "static/js/2.9a71500e.chunk.js",
+    "static/css/main.fbbf7790.chunk.css",
+    "static/js/main.90201163.chunk.js"
+  ]
+}
